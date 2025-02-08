@@ -94,4 +94,4 @@ def main(start_product_number, end_product_number):
 
 # Run the script
 if __name__ == "__main__":
-    main(start_product_number=0, end_product_number=40)
+    main(start_product_number=0, end_product_number=100000)
